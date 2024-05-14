@@ -1,0 +1,8 @@
+- clone: To clone the repository
+- add: To add changes to the staging area
+- commit: To commit changes
+- branch: To create a new branch
+- checkout: To switch branches
+- merge: To merge branches
+- reset: To undo changes or move to a specific commit
+- push: To push changes to a remote repository
