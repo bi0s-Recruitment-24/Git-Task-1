@@ -20,9 +20,9 @@ akshith.md) and then committed it (git commit -m "Another tiny message here"). I
 
 6) Since I'm done with all the stuff in the akshith branch, I'm gonna merge it with the main branch. For that first I switched to the the main branch (git checkout main), alternatively
 switch could be used instead of checkout but the command is in its trial stages. Then I merged the 2 branches (git merge akshith). Now the changes made in the branch "akshith" are 
-integrated into the main branch. But akshith will still remain in the repo and can always be checked out. I used git branch to find out whcih branch I'm working with currently.
+integrated into the main branch. But akshith will still remain in the repo and can always be checked out. I used git branch to find out which branch I'm working with currently.
 
 7) So I opened the README.md file using nano text editor and added my name at the very end. I added it to the staging area and then committed it (git commit -m "LIL MEASSAGE"). So to 
-revert this using reset command there are 2 ways, one is --soft reset and the other is --hard reset. Soft reset just removes the latest commit hash from the git log and you won't be able
-to view the commit but my name will still be there in the README.md file, so it basically keeps the changes for a re-commit. So for completely reverting the edit I have to use this 
-command (git reset --hard HEAD~1), HEAD~1 basically refers to the latest commit I made, so it basically discards the commit and doesn't keep the changes for a re-commit.
+revert this using reset command there are 2 ways, one is --soft reset and the other is --hard reset (I used --hard reset). Soft reset just removes the latest commit hash from the git log
+and you won't be able to view the commit but my name will still be there in the README.md file, so it basically keeps the changes for a re-commit. So for completely reverting the edit I 
+have to use this command (git reset --hard HEAD~1), HEAD~1 basically refers to the latest commit I made, so it basically discards the commit and doesn't keep the changes for a re-commit.
