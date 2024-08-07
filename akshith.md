@@ -5,3 +5,5 @@ that there isn't a better choice than Bi0s's CTF team for me to do that. I have 
 which I think has helped me a ton by making me handle heavily pressurized situations with a calm and composed demeanor, and I think competitions like these will make one really ready
 for the REAL WORLD and the extreme competition out there! I really dont't want to brag but I will, I managed to secure a position in the top 10 of the whole country. I really, really do
 hope to learn and upskill from you guys soon! 
+
+Commit hash of the akshith.txt commit: 060cf1a1803324fd93272631c8a98a4bc931b8a1 
