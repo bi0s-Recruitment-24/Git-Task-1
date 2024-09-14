@@ -1,4 +1,4 @@
-1.forked and cloned (git clone <ssh link> - clones repo) 
+1.forking and cloning (git clone <ssh link> - clones repo) 
 
 2.nano rishipr - text file with date in it 
 
