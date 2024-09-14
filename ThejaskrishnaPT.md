@@ -1,0 +1,4 @@
+My name is Thejas Krishna PT,from Cse Cyber.I am a student who is fascinated about computers.My ambition is to become a ethical hacker in the cyber world and work for the Indian Government.I became interested in cybersecurity and ethical hacking when I was in 8th grade not that I knew everything about it.Being Truthful I was fascinated about the word 'HACKING' and thought hacking was all about getting into someone's system and then all the stuff that would come to a person's mind when hearing the word hacker/hacking.I became more aware of the things when going into this field deeply and this is when I reached 11th and 12th grade.
+I hope to join Bi0s to upskill myself and get more exposure in this field which would help me go further and pursue my dreams!!!
+
+LAST COMMIT HASH == "eb06948b7962e062b6bd140295a81a15a604e54f"
