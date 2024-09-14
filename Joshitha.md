@@ -1,0 +1,1 @@
+ I am Joshitha from Hyderabad . I am from CSE-D . I love listening to music and binge watching movies. I am from a non-technical background but learnt a bit of python and c programming before joining the college.
