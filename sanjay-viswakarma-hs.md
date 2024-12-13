@@ -1,0 +1,3 @@
+# Introduction about myself 
+Hello my name is Sanjay Viswakarma HS, my native place is Kollam,Kerala. I am a first year at Amrita Amritapuri School Of Computing studying CSE-AI. During my 11th and 12th year I have done some projects using python, noteably one of the project I had done with few of my friends we had to create a google assistant like software , we used the google's API for it.
+## Commit hash :75560ed07054c3d78ffb55a8929b67426f5a7fae
